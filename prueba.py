@@ -1,3 +1,3 @@
 print("hola mundo")
 
-print ("prueba")
+print ("Comprobacion rapida")
